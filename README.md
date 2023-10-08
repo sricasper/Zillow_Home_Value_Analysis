@@ -1,4 +1,4 @@
-# zillow_home_value_analysis
+# Zillow_Home_Value_Analysis
 Analyzing and predicting the value of properties by using KNN Imputer, machine learning, and regression models
 
 ## Dataset
